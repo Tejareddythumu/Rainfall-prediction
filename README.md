@@ -9,6 +9,7 @@ This project aims to predict rainfall based on historical weather data. The data
 - **requirements.txt**: List of required Python packages.
 
 ## File Structure
+```plaintext
 rainfall-prediction/
 │
 ├── data/
@@ -24,6 +25,7 @@ rainfall-prediction/
 ├── requirements.txt                # List of dependencies
 ├── README.md                       # Project documentation
 └── .gitignore                      # Git ignore file
+```
 
   
 ## How to Run
