@@ -8,6 +8,7 @@ This project aims to predict rainfall based on historical weather data. The data
 - **src/**: Python scripts for data preprocessing and model training.
 - **requirements.txt**: List of required Python packages.
 
+## File Structure
 rainfall-prediction/
 │
 ├── data/
