@@ -7,6 +7,23 @@ This project aims to predict rainfall based on historical weather data. The data
 - **notebooks/**: Jupyter notebook for data analysis, preprocessing, and model training.
 - **src/**: Python scripts for data preprocessing and model training.
 - **requirements.txt**: List of required Python packages.
+
+rainfall-prediction/
+│
+├── data/
+│   └── rainfall_data.csv           # Your dataset
+│
+├── notebooks/
+│   └── rainfall_prediction.ipynb   # Jupyter notebook for project implementation
+│
+├── src/
+│   └── preprocess.py               # Data preprocessing script
+│   └── model.py                    # Model training and evaluation script
+│
+├── requirements.txt                # List of dependencies
+├── README.md                       # Project documentation
+└── .gitignore                      # Git ignore file
+
   
 ## How to Run
 
