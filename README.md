@@ -12,5 +12,5 @@ This project aims to predict rainfall based on historical weather data. The data
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/<Tejareddythumu>/Rainfall-prediction.git
+   git clone https://github.com/<Tejareddythumu>/rainfall-prediction.git
    cd rainfall-prediction
